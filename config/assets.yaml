@@ -1,0 +1,5 @@
+framework:
+    assets:
+        packages:
+            ydid_page_creator:
+                base_path: "bundles/ydidpagecreator"

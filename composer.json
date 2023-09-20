@@ -1,0 +1,26 @@
+{
+    "name": "ydid/page-creator-bundle",
+    "type": "symfony-bundle",
+    "description": "Create your own pages, by drag and drop block",
+    "license": "MIT",
+    "version": "0.0.1",
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "YDID\\PageCreatorBundle\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "YDID\\PageCreatorBundle\\Tests": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ydid",
+            "email": "ydid.pro@gmail.com"
+        }
+    ]
+}
